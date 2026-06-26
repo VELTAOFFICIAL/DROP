@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="160" alt="DROP Logo">
+  <img src="assets/DROP Logo" width="160" alt="DROP Logo">
 </p>
 
 <h1 align="center">DROP</h1>
